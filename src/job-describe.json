@@ -1,0 +1,93 @@
+[
+    {
+        "id":1,
+        "img": "../jobs/img/1.webp",
+        "title": "Harmony Weaver",
+        "describe": "Here is 'Harmony Weaver' who crafts and balances natural energy in a vibrant landscape. The scene captures the essence of a job designed to promote harmony and well-being, set in a beautifully imaginative future.",
+        "lifestyle": "../jobs/lifestyle/1"
+    
+    },
+    {
+        "id":2,
+        "img": "../jobs/img/2.webp",
+        "title": "Bio-Architect",
+        "describe": "Here is 'Bio-Architect.' The scene beautifully captures the integration of living structures with nature, showcasing the essence of this imaginative role.",
+        "lifestyle": "../jobs/lifestyle/2"
+    },
+    {
+        "id":3,
+        "img": "../jobs/img/3.webp",
+        "title": "Sound Landscape Designer",
+        "describe": "Here is 'Sound Landscape Designer' The scene captures the creation of immersive sound environments in a vibrant, natural setting, showcasing the positive impact of this unique role on community life.",
+        "lifestyle": "../jobs/lifestyle/3"
+    }
+    ,
+    {
+        "id":4,
+        "img": "../jobs/img/4.webp",
+        "title": "ustainable Resource Manager",
+        "describe": "The scene captures the essence of this role in a community focused on sustainability and resource conservation."
+    },
+    {
+        "id":5,
+        "img": "../jobs/img/5.webp",
+        "title": "Harmony Specialist",
+        "describe": "The scene captures this role in a tranquil park setting, emphasizing the integration of natural elements and eco-friendly architecture to promote peace and well-being in communities."
+    },
+    {
+        "id":6,
+        "img": "../jobs/img/6.webp",
+        "title": "Wildlife Restoration Specialist",
+        "describe": " The scene captures the essence of this role in a vibrant landscape focused on restoring and rehabilitating ecosystems."
+    },
+    {
+        "id":7,
+        "img": "../jobs/img/7.webp",
+        "title": "Food Sovereignty Advocate",
+        "describe": "The scene captures the essence of this role in a vibrant urban garden, focusing on sustainable practices and community empowerment."
+    }
+    ,
+    {
+        "id":8,
+        "img": "../jobs/img/8.webp",
+        "title": "Pollinator Guardian",
+        "describe": "The scene captures the essence of this role, focusing on the protection and nurturing of pollinator species in a vibrant and engaging environment."
+    },
+    {
+        "id":9,
+        "img": "../jobs/img/9.webp",
+        "title": "Biodiversity Curator",
+        "describe": "The scene captures the essence of this role in a lush city park, emphasizing the importance of preserving and promoting biodiversity in urban environments."
+    },
+    {
+        "id":10,
+        "img": "../jobs/img/10.webp",
+        "title": "Forest Ecosystem Engineer",
+        "describe": "The scene captures this role in a vibrant urban environment, focusing on the design and maintenance of urban forests to support biodiversity."
+    },
+    {
+        "id":11,
+        "img": "../jobs/img/11.webp",
+        "title": "Water Resource Steward",
+        "describe": "The scene captures the essence of this role in a serene environment, focusing on sustainable water management and community engagement."
+    },
+    {
+        "id":12,
+        "img": "../jobs/img/12.webp",
+        "title": "Community Health Navigator",
+        "describe": "The scene captures the essence of this role in a vibrant community garden, emphasizing health and wellness in a realistic and engaging manner."
+    },
+    {
+        "id":13,
+        "img": "../jobs/img/13.webp",
+        "title": "Urban Green Space Designe",
+        "describe": "The scene captures the designer collaborating with community members to create vibrant green spaces in an urban environment, showcasing the importance of biodiversity and community well-being."
+    },
+    {
+        "id":14,
+        "img": "../jobs/img/14.webp",
+        "title": "Cultural Heritage Restorer",
+        "describe": "The scene captures the essence of this role, showcasing the restorer working in a vibrant workshop while engaging with apprentices in traditional crafts."
+    }
+
+]

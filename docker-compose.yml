@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000" # ローカルの3000番ポートをコンテナの3000番ポートにマッピング
+    volumes:
+      - .:/app # ローカルの現在のディレクトリをコンテナの/appにマウント
+      - /app/node_modules # node_modulesをホストから分離してパフォーマンスを向上
+    environment:
+      - NODE_ENV=development # 開発環境として設定
